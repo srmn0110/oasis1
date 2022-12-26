@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../infobyte-tsak-3-main"
+		},
+		{
+			"path": "../infobyte-tsak-1-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "infobyte-tsak-2-main"
+	}
+}
